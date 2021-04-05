@@ -1,0 +1,25 @@
+html, body, div#pagebody{
+    height: 100%;
+    margin: 0;
+}
+
+div#header{
+    width: 100%;
+}
+
+div#main{
+    height: 60%;
+    overflow-y: scroll;
+}
+
+div#footer{
+    height: 15%;
+}
+
+.MainImage{
+    Width: 100%;
+}
+
+.FooterImage{
+    Width: 10%;
+}

@@ -1,0 +1,22 @@
+div#AreaNews, div#AreaPickupMovie, div#AreaPickuuArticle{
+    margin-top: 3%;
+}
+
+.TitleArea{
+    height: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 3vw;
+}
+
+.AreaNewsContents, .PickupMovieContents, .PickupArticleContents{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.PickupMovie, .PickupArticle{
+    padding-top: 5%;
+}
